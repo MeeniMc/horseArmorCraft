@@ -1,0 +1,28 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_the_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+              "recipe": "horse_armor_craft:gold_horse_armor"
+            }
+        },
+        "has_leather_horse_armor": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [{"item": "minecraft:leather_horse_armor"}]
+            }
+        }
+    },
+    "requirements": [
+      [
+        "has_the_recipe",
+        "has_leather_horse_armor"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "horse_armor_craft:gold_horse_armor"
+      ]
+    }
+  }
