@@ -2,8 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "X": {
-      "item": "minecraft:gold_ingot"
+    "X": { 
+      "item": "minecraft:iron_ingot"
     },
     "H": {
       "item": "minecraft:leather_horse_armor"
@@ -15,6 +15,7 @@
     "X X"
   ],
   "result": {
-    "item": "minecraft:golden_horse_armor"
+    "count": 1,
+    "id": "minecraft:iron_horse_armor"
   }
 }

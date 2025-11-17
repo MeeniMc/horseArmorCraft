@@ -1,17 +1,20 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "  #",
-        "#h#",
-        "# #"
-    ],
-    "key": {
-        "#": {"item": "minecraft:iron_ingot"},
-        "h": {"item": "minecraft:leather_horse_armor"}
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "item": "minecraft:iron_ingot"
     },
-    "result": {
-        "item": "minecraft:iron_horse_armor",
-        "count": 1
-    },
-    "group": "horse_armor"
+    "H": {
+      "item": "minecraft:leather_horse_armor"
+    }
+  },
+  "pattern": [
+    "  X",
+    "XHX",
+    "X X"
+  ],
+  "result": {
+    "item": "minecraft:iron_horse_armor"
+  }
 }
