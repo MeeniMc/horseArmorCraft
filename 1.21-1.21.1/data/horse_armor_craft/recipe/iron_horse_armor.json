@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "X": { 
+    "X": {
       "item": "minecraft:iron_ingot"
     },
     "H": {
