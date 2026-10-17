@@ -3,11 +3,11 @@
     "pack_format": 15,
     "supported_formats": [
       15,
-      88
+      121
     ],
     "min_format": 15,
-    "max_format": 88,
-    "description": "§6Horse Armor Craft§r: §oCrafting recipes for horse armors and saddle\n §2v2.88.0; by MeeniMc; CC BY-NC-SA 4.0\n §9https://modrinth.com/datapack/horseArmorCraft"
+    "max_format": 121,
+    "description": "§6Horse Armor Craft§r: §oCrafting recipes for horse armors and saddle\n §2v2.121.0; by MeeniMc; CC BY-NC-SA 4.0\n §9https://modrinth.com/datapack/horseArmorCraft"
   },
   "overlays": {
     "entries": [
