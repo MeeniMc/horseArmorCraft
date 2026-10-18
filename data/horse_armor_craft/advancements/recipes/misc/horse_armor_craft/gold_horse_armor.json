@@ -5,7 +5,9 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:leather_horse_armor"
+            "items": [
+              "minecraft:leather_horse_armor"
+            ]
           }
         ]
       },
